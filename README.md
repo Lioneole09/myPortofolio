@@ -1,6 +1,5 @@
 1. myPortofolio
 2. myPortofolio update terbaru,
-3. mohon maaf saya update baru karen pada file sebelumnya ada kesalahan yang menyababkan saya susah ngedeploy nya.
 4. cara penggunaan:
 5. import file yang berada didalam databe/myportofolio.sql ke databse xampp
 6. Username: Katsir
